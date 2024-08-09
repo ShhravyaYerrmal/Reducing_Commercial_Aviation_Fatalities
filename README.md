@@ -1,7 +1,7 @@
-###Description
+### Description
 
 
-Most flight-related fatalities stem from a loss of ###“airplane state awareness.” 
+Most flight-related fatalities stem from a loss of “airplane state awareness.” 
 That is, ineffective attention management on the part of pilots who may be distracted, sleepy or in other dangerous cognitive states.
 
 The challenge was to build a model to detect troubling events from aircrew’s physiological data. 
